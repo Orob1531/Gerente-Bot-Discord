@@ -1,14 +1,24 @@
-## Bot-Discord.
-
-Bot para discord sobre "Moderación", "Bienvenidas", "Sugerencias", "Webhooks", "Eventos" y "Músicas"
-
-##
+# Bot-Discord.
 
 **Nombre:**  _Gerente_
 
-**¿Qué hace en momento:** _Tiene comandos de Moderación_ 
+**Idea Principal:** 
 
-**Comando:** _/_
+- [ ]  Bienvenidas.
+
+- [x] ~~Moderación.~~
+
+- [ ] Sugerencias.
+
+- [ ] Sorteos.
+
+- [ ] Webhooks.
+
+- [ ] Músicas.
+
+**¿Qué hace en momento:** _Usa comandos de Moderación_ 
+
+**Prefijo:** _/_
 
 + /Kick
 
@@ -16,6 +26,6 @@ Bot para discord sobre "Moderación", "Bienvenidas", "Sugerencias", "Webhooks", 
 
 + /Unban
 
-+
++ /clear
 
 
