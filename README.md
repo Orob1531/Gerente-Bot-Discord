@@ -1,6 +1,8 @@
-# Bot-Discord.
+# Bot Discord
 
-**Nombre:**  _Gerente_
+**Nombre del Bot:**  _Gerente_
+
+---
 
 **Idea Principal:** 
 
@@ -16,11 +18,19 @@
 
 - [ ] Músicas.
 
-**¿Qué hace en momento:** _Usa comandos de Moderación_ 
+---
+
+**¿Que funcionalidad tiene?**
+
+> _Usa comandos de Moderación_ 
+
+---
 
 **Prefijo:** _/_
 
 + /Kick
+
+> Este comanso kikea a un usuario.
 
 + /Ban
 
