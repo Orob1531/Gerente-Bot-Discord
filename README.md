@@ -40,37 +40,70 @@
 ---
   
 > + `/Kick`
-> 
-> **Descripción:**
->
-> Este comando kikea a un usuário de tu servidor.
 >
 > **Formato:**
 >
->  `/Kick:` `@User` `Motivo(Opcional)`
+>  `/Kick:` `@User` `Motivo:(Opcional)`
+> 
+> **Ejemplo:** 
+>
+> `/Kick: @Orob1531 "Por mandar spam"`
+> 
+> **Descripción:**
+>
+> Expulsa a un usuário del servidor.
   
 ---
   
 > + `/Ban`
 >
+> **Formato:**
+>
+>  `/Ban:` `@User` `Motivo:(Opcional)`
+>
+> **Ejemplo:** 
+>
+> `/Ban: @Orob1531 "Por mandar spam"`
+>
 > **Descripción:**
 >
-> Este comandos Banea a un Usuário de tu servidor.
+> Banea a un usuário del servidor.
+  
+---
 
 > + `/Unban`
 >
+> **Formato:**
+>
+>  `/Unban:` `{Usertag}` `Motivo:(Opcional)`
+>
+> **Ejemplo:** 
+>
+> `/Unban: Orob1531#3887`
+>
 > **Descripción:**
 >
-> Este comandos quita el Baneo de un usuário en tu servidor.
+> Desbanea a un usuario del servidor.
   
-> + `/clear`
+--- 
+  
+> + `/Clear`
 >
+> **Formato:**
+>
+>  `/Clear:` `Valor:(Opcional)`
+> 
+> **Ejemplo:** 
+>
+> `/Clear: 12` = Elimina 12 mensajes del chat actual.
+> ```
+> Nota: Si ejecutado el comando sin valor, este eliminará apenas 5 mensajes.
+> ```
+> 
 > **Descripción:**
 >
-> Elimina de (0/100) mensajes de tu servidor.
-  
+> Elimina una cantidad específica de mensajes del canal actual.
+
 </p>
 
 </details>
-
----
