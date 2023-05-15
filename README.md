@@ -9,11 +9,11 @@
 
 ---
 
-<details><summary> Idea Principal: </summary>
+<details><summary> Modalidades: </summary>
 
 <p>
   
-> - [ ]  Bienvenidas.
+> - [ ] Bienvenidas.
 >
 > - [ ] Despedidas.
 >
@@ -37,6 +37,8 @@
 
 <p>
 
+---
+  
 > + `/Kick`
 > 
 > **Descripción:**
@@ -45,7 +47,9 @@
 >
 > **Formato:**
 >
->  `/Kick:` `@User` `Motivo`
+>  `/Kick:` `@User` `Motivo(Opcional)`
+  
+---
   
 > + `/Ban`
 >
