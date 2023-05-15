@@ -1,41 +1,62 @@
-# Bot Discord
-
-**Nombre del Bot:**  _Gerente_
-
+### **Gerente Bot.**
 ---
 
-**Idea Principal:** 
+### Idea Principal:
 
-- [ ]  Bienvenidas.
-
-- [x] ~~Moderación.~~
-
-- [ ] Sugerencias.
-
-- [ ] Sorteos.
-
-- [ ] Webhooks.
-
-- [ ] Músicas.
+> - [ ]  Bienvenidas.
+>
+> - [ ] Despedidas.
+>
+> - [x] ~~Moderación.~~
+>
+> - [ ] Sugerencias.
+>
+> - [ ] Sorteos.
+>
+> - [ ] Webhooks.
+>
+> - [ ] Músicas.
 
 ---
 
 **¿Que funcionalidad tiene?**
 
-> _Usa comandos de Moderación_ 
+> _Usa comandos de Moderación básicos para tu servidor de discord al igual que comandos para limpiar los mensajes de tus chats._ 
 
 ---
 
-**Prefijo:** _/_
+<details><summary> Comandos </summary>
 
-+ /Kick
+<p>
 
-> Este comanso kikea a un usuario.
+> + /Kick
+>
+>
+>
+> Este comando kikea a un usuário de tu servidor.
+>
+>
+  
+</p>
 
-+ /Ban
+</details>
 
-+ /Unban
+> + /Kick
+> 
+> Este comando kikea a un usuário de tu servidor.
+> 
 
-+ /clear
+ 
+> + /Ban
+> 
+> Este comandos Banea a un Usuário de tu servidor.
+
+> + /Unban
+>
+> Este comandos quita el Baneo de un usuário en tu servidor.
+
+> + /clear
+>
+> Este comando elimina la cantidad de mensajes de ru servidor.
 
 
