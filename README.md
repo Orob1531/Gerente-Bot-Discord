@@ -19,7 +19,7 @@
 >
 > - [x] ~~Moderación.~~
 >
-> - [ ] Sugerencias.
+> - [ ] Sugeréncias.
 >
 > - [ ] Sorteos.
 >
