@@ -33,7 +33,7 @@
 
 ---
 
-<details><summary> Comandos: </summary>
+<details><summary> Comandos De Moderación: </summary>
 
 <p>
 
