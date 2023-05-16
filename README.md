@@ -83,7 +83,7 @@
 >
 > **Descripción:**
 >
-> Desbanea a un usuario del servidor.
+> Desbanea a un usuário del servidor.
   
 --- 
   
